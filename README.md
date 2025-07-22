@@ -97,15 +97,6 @@ It showcases my ability to work with **AWS, Kubernetes, Docker, IAM, networking*
 
 ---
 
-## 🖼️ Screenshots (Optional)
-
-You can add screenshots here of:
-- EKS Console
-- `kubectl get nodes`
-- App running on the cluster
-
----
-
 ## 📈 Next Steps / Improvements
 
 - Add CI/CD pipeline with GitHub Actions to automate deployments.
